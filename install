@@ -1,0 +1,9 @@
+#!/usr/bin/env osascript
+
+tell application "Terminal"
+	set theme to "Dracula"
+
+	do shell script "open '" & theme & ".terminal'"
+	set default settings to settings set theme
+	
+end tell

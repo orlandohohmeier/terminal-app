@@ -6,7 +6,17 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/terminal](https://draculatheme.com/terminal).
+Clone this repository and run the install script as follows to install the theme.
+
+```sh
+
+    git clone $url && cd terminal-app  && ./install
+
+```
+
+_Please note: The script will not apply the theme to already open terminal windowns._
+
+The instructions to manually install the the teheme can be found at [draculatheme.com/terminal](https://draculatheme.com/terminal).
 
 ## Team
 
